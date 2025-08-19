@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "188870210143",
+    "firebase_url": "https://product-repo-d6e27-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "product-repo-d6e27",
+    "storage_bucket": "product-repo-d6e27.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:188870210143:android:2e297a9d9d90f9ea4421ea",
+        "android_client_info": {
+          "package_name": "com.example.fire_provider"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAb7aoPrYpkXom58AwOpPPAWaIRvlPkR0A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:188870210143:android:cbf1ac9d65bc38ab4421ea",
+        "android_client_info": {
+          "package_name": "com.example.review"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAb7aoPrYpkXom58AwOpPPAWaIRvlPkR0A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
