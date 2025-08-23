@@ -1,5 +1,4 @@
 import 'package:fire_provider/Repository/firebase_repo.dart';
-import 'package:fire_provider/Repository/repo.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 import 'package:firebase_core/firebase_core.dart';
